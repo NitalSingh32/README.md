@@ -1,0 +1,6 @@
+{
+  "name": "TravelMate AI – Personalized Travel Itinerary Planner",
+  "description": "AI-powered personalized travel itinerary planner with smart day-by-day plans, attraction and dining guides, budget breakdown, interactive customization, and trip management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
